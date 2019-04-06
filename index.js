@@ -28,9 +28,9 @@ client.on("message", message => {
          .setColor("#580e6b")
          .setThumbnail(message.author.avatarURL)
          .setDescription(`
-('+avatar ' , 'كود الافاتار ') 
-('+roll ' , 'كود القرعة ') 
-('+id ' , 'لعرض معلوماتك') 
++avatar ' , 'كود الافاتار
++roll ' , 'كود القرعة
++id ' , 'لعرض معلوماتك
 ('+server' , 'لمعلومات سيرفر') 
 ('رابط السيرفر الي تكتب الاوامر بيه' ,' رابط  ')
 ('+invite   ' ,' لاضافه البوت   ')
